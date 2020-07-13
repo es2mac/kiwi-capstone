@@ -198,16 +198,16 @@ h1 {
 }
 
 .secondaryNav ul a:hover {
-  color: #2f8dfa;
-  border-bottom: 8px solid #2f8dfa;
+  color: #9b71e3;
+  border-bottom: 8px solid #9b71e3;
 }
 
 .secondaryNav ul a:active {
-  border-bottom: 8px solid #2f8dfa;
+  border-bottom: 8px solid #9b71e3;
 }
 
 .secondaryNav ul a:focus {
-  border-bottom: 8px solid #2f8dfa;
+  border-bottom: 8px solid #9b71e3;
 }
 
 .demoWrap {
