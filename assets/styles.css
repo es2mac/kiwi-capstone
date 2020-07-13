@@ -513,7 +513,7 @@ p.kit span {
 
 .video-bg {
   position: relative;
-  background-image: url(assets/images/video_bg.png);
+  /* background-image: url(assets/images/video_bg.png); */
   border: 1px solid #ff000000;
   min-height: 1250px;
   background-repeat: no-repeat;
