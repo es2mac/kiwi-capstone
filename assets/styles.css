@@ -164,11 +164,11 @@ h1 {
 }
 
 .mainNav ul a:active {
-  border-bottom: 8px solid #2f8dfa;
+  border-bottom: 8px solid #9b71e3;
 }
 
 .mainNav ul a:focus {
-  border-bottom: 8px solid #2f8dfa;
+  border-bottom: 8px solid #9b71e3;
 }
 
 .secondaryNav {
@@ -250,11 +250,11 @@ h1 {
 }
 
 .sideNav a:hover {
-  color: #2f8dfa;
+  color: #9b71e3;
 }
 
 .sideNav a:active {
-  border-bottom: 8px solid #2f8dfa;
+  border-bottom: 8px solid #9b71e3;
 }
 
 .section1 {
@@ -404,7 +404,7 @@ p.kit span {
   height: 600px;
   display: flex;
   align-items: center;
-  background-color: #2f8dfa;
+  background-color: #9b71e3;
 }
 
 .aboutSection1 .about-wrap {
