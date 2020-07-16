@@ -78,7 +78,9 @@ body {
   margin-top: 64px;
 }
 
-.margin-small-top {   margin-top: 22px; }
+.margin-small-top {
+  margin-top: 22px;
+}
 
 .main-home {
   height: 100vh;
@@ -1374,7 +1376,7 @@ select {
 
   .column.large-uncentered.opposite,
   .columns.large-uncentered.opposite {
-    float: right
+    float: right;
   }
 
   .large-push-0 {
