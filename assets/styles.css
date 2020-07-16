@@ -78,6 +78,8 @@ body {
   margin-top: 64px;
 }
 
+.margin-small-top {   margin-top: 22px; }
+
 .main-home {
   height: 100vh;
   display: flex;
@@ -324,7 +326,7 @@ p.kit span {
 }
 
 .section-title h3 {
-  color: #2f8dfa;
+  color: #9b71e3;
   font-size: 16px;
   text-transform: uppercase;
 }
@@ -338,7 +340,7 @@ p.kit span {
 }
 
 .section-title h5 span {
-  color: #2f8dfa;
+  color: #9b71e3;
   font-size: 28px;
   margin-right: 8px;
 }
@@ -1372,7 +1374,7 @@ select {
 
   .column.large-uncentered.opposite,
   .columns.large-uncentered.opposite {
-    float: right;
+    float: right
   }
 
   .large-push-0 {
