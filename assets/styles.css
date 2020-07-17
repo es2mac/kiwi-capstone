@@ -515,7 +515,7 @@ p.kit span {
   position: relative;
   /* background-image: url(assets/images/video_bg.png); */
   border: 1px solid #ff000000;
-  min-height: 1250px;
+  min-height: 650px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -526,7 +526,7 @@ p.kit span {
 
 .cpt-section {
   text-align: center;
-  margin-top: 220px;
+  margin-top: 20px;
   margin-bottom: 30px;
   width: 100%;
   display: inline-block;
