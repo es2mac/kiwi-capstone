@@ -119,8 +119,7 @@ h1 {
   background-color: #9b71e3;
   color: #fff;
   padding: 8px 16px;
-  margin-bottom: 2
-  ;
+  margin-bottom: 0;
 }
 
 .main-title-wrap .main-title-secondary {
@@ -905,7 +904,7 @@ select {
   }
 
   .small-12 {
-    width: 99.6%;
+    width: 100%;
   }
 
   [class*="column"] + [class*="column"]:last-child {
@@ -1525,7 +1524,7 @@ select {
   }
 
   .large-6 {
-    width: %;
+    width: 50%;
   }
 
   .large-7 {
