@@ -116,14 +116,15 @@ h1 {
 }
 
 .main-title-wrap .main-title {
-  background-color: #2f8dfa;
+  background-color: #9b71e3;
   color: #fff;
   padding: 8px 16px;
-  margin-bottom: 0;
+  margin-bottom: 2
+  ;
 }
 
 .main-title-wrap .main-title-secondary {
-  background-color: #2f8dfa;
+  background-color: #9b71e3;
   color: #fff;
   padding: 8px 16px;
   padding-top: 0;
@@ -904,7 +905,7 @@ select {
   }
 
   .small-12 {
-    width: 100%;
+    width: 99.6%;
   }
 
   [class*="column"] + [class*="column"]:last-child {
@@ -1524,7 +1525,7 @@ select {
   }
 
   .large-6 {
-    width: 50%;
+    width: %;
   }
 
   .large-7 {
